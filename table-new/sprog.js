@@ -17,3 +17,8 @@ console.log(student1.names.lastName);
 console.log(student1["names"].lastName);
 console.log(student1["firstName"]["lastName"]);
 //its the same above consoles
+
+/* <td>${each.isTandem ? "X": "-"}</td> */
+// its a ternary conditional operator which can be used instead of if else statements which are very long and goes code v short .
+//used in react
+//condition ? exprIfTrue : exprIfFalse (ternary)
